@@ -1,7 +1,7 @@
 # Hi there 👋
-+447832961788
-abuhamza2308@hotmail.com
-https://www.linkedin.com/in/abu-hamza23/
++447832961788  
+abuhamza2308@hotmail.com  
+https://www.linkedin.com/in/abu-hamza23/  
 
 I am an aspiring python developer focusing on learning and working on personal projects!
 
