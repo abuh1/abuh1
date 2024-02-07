@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I am an aspiring python developer working on personal projects!
 
 ### Here are some of my projects:
