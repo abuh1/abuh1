@@ -11,8 +11,8 @@ Python - Pandas, Matplotlib, Seaborn, Numpy
 Java  
 SQL  
 Git  
-Data Science
-Data analysis  
+Data Science  
+Data Analysis  
 
 
   
